@@ -24,3 +24,6 @@ CSharp From  Url..
 Dont need to modifiy PS Script..
 
 just CSharp Code!  Save Alot of Time
+
+With this You only need to Install onces! untill next update..
+It will Minimize web traffic from runnin the script ..
