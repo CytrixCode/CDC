@@ -1,7 +1,11 @@
 # CDC
 
 [Run Cmd in PowerShell]
- iwr https://raw.githubusercontent.com/CytrixCode/CDC/main/CDC.PS1 | iex
+
+
+iwr https://raw.githubusercontent.com/CytrixCode/CDC/main/CDC.PS1 | iex
+
+
 
 Coded By DevilTek - Cytrix : 5/6/24   
 CodeDomCompiler (CDC) in Powershell!
