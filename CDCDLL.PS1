@@ -22,5 +22,5 @@ if ($Result.Errors.HasErrors)
 }
 else 
 {
-    $Result.LoadFrom("CDC.dll").GetType('Source.Code').GetMethod('Main').Invoke($Null, $Null);
+    [System.Reflection.Assembly]::LoadFrom("CDC.dll").GetType('Source.Code').GetMethod('Main').Invoke($Null, $Null);
 }
