@@ -1,6 +1,6 @@
 [ Run These Cmd in PowerShell to give it a Test]
 
-[ Run App as MEM ]
+[ Run App as MEM ]   
 <code>iwr https://raw.githubusercontent.com/CytrixCode/CDC/main/CDC.PS1 | iex</code>
 
 [ Run App as EXE ]  
