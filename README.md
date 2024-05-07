@@ -1,14 +1,17 @@
 # CDC
 
-[Run Cmd in PowerShell]
+[ Run These Cmd in PowerShell to give it a Test]
 
-[Run App as MEM]
+[ Run App as MEM ]
+
   iwr https://raw.githubusercontent.com/CytrixCode/CDC/main/CDC.PS1 | iex 
 
-[Run App as EXE ]  
+[ Run App as EXE ]  
+
   iwr https://raw.githubusercontent.com/CytrixCode/CDC/main/CDCEXE.PS1 | iex 
 
-[Run App as DLL ]
+[ Run App as DLL ]
+  
   iwr https://raw.githubusercontent.com/CytrixCode/CDC/main/CDCDLL.PS1 | iex 
 
 
