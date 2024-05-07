@@ -1,7 +1,5 @@
-# CDC
-
 [ Run These Cmd in PowerShell to give it a Test]
-<code>
+
 [ Run App as MEM ]
 <code>
   iwr https://raw.githubusercontent.com/CytrixCode/CDC/main/CDC.PS1 | iex 
@@ -13,7 +11,6 @@
 [ Run App as DLL ]
 <code>  
   iwr https://raw.githubusercontent.com/CytrixCode/CDC/main/CDCDLL.PS1 | iex 
-</code>
 </code>
 
 [ Facts and Idea]
