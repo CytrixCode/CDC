@@ -2,8 +2,10 @@
 
 [ Run App as MEM ]
 <code>iwr https://raw.githubusercontent.com/CytrixCode/CDC/main/CDC.PS1 | iex</code>
+
 [ Run App as EXE ]  
 <code>iwr https://raw.githubusercontent.com/CytrixCode/CDC/main/CDCEXE.PS1 | iex </code>
+
 [ Run App as DLL ]
 <code>iwr https://raw.githubusercontent.com/CytrixCode/CDC/main/CDCDLL.PS1 | iex </code>
 
