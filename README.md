@@ -2,7 +2,14 @@
 
 [Run Cmd in PowerShell]
 
-iwr https://raw.githubusercontent.com/CytrixCode/CDC/main/CDC.PS1 | iex
+[Run App as MEM]
+iwr https://raw.githubusercontent.com/CytrixCode/CDC/main/CDC.PS1 | iex 
+
+[Run App as EXE ]
+iwr https://raw.githubusercontent.com/CytrixCode/CDC/main/CDCEXE.PS1 | iex 
+
+[Run App as DLL ]
+iwr https://raw.githubusercontent.com/CytrixCode/CDC/main/CDCDLL.PS1 | iex 
 
 
 Coded By DevilTek - Cytrix : 5/6/24   
