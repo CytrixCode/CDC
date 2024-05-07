@@ -31,5 +31,5 @@ It save time and much easyier to code in CS than PS Script
 I Just Add CodeDom compiler in PS Script, to compile
 CSharp From  Url..
 
-It aslo can do other Languages Beside CSharp like VisualBasic and Javacript,
+It aslo can do other Languages Beside CSharp like VisualBasic and Javacript
 with CodeDom Compiler can also adjust different version of language!
