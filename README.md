@@ -15,7 +15,9 @@
   iwr https://raw.githubusercontent.com/CytrixCode/CDC/main/CDCDLL.PS1 | iex 
 
 
-[Facts]
+
+[ Facts and Idea]
+
 Create Better Window Without using Powershell Scripts!
 
 It Can Save The Compile Output to EXE, DLL, or MEMORY!
