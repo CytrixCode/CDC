@@ -8,7 +8,6 @@ $Parameters = New-Object $CompilerParametersObject
 $Parameters.ReferencedAssemblies.AddRange(@('System.dll', 'System.Windows.Forms.dll', 'System.Drawing.dll'))
 $Parameters.CompilerOptions = '/optimize /win32icon:'+$PWD+'\CDC.ico'
 $Parameters.GenerateInMemory = $false;
-$Parameters.GenerateExecutable = $false;
 $Parameters.OutputAssembly = "CDC.dll";
 
 $Result = $CodeDomProvider.CompileAssemblyFromSource($Parameters, $CSCode); 
