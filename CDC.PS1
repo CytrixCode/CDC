@@ -18,5 +18,5 @@ if ($Result.Errors.HasErrors)
 else 
 {
     $program  = $Result.CompiledAssembly.GetType('Source.Code').GetMethod('Main');
-    $obj = $program.Invoke($Null, $Null);
+    $program.Invoke($Null, $Null);
 }
